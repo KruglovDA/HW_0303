@@ -8,5 +8,5 @@
 4. **git status** - shows git current status
 5. **git checkout** - shows selected version or branch
 ## Lesson 2. Branches.
-1. git branch - shows all branches.
-2. git checkout branch_name - shows needed branch.
+1. **git branch** - shows all branches.
+2. **git checkout branch_name** - shows needed branch.
